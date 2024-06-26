@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Submitted by: Lance Silva//
+//Github link: https://github.com/lenssssss/SODV1202FinalProject//
+
+using System;
 
 namespace Connect4
 {
